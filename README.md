@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chawput Nawakalanyu</h1>
 <h3 align="center">A passionate Web Developer from Thailand</h3><br/>
 
-🔭 &nbsp;&nbsp;I’m currently working on [Pramool Quick](https://www.pramoolquick.com/)
+🔭 &nbsp;&nbsp;My personal project: [Pramool Quick](https://www.pramoolquick.com/)
 
 🌱 &nbsp;&nbsp;I’m currently learning **Front-End, Back-End, DevOps & more 😍**
 
