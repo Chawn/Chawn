@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chawput Nawakalanyu</h1>
-<h3 align="center">A passionate Web Developer from Thailand</h3><br/>
+<h3 align="center">A passionate Frontend Developer from Thailand</h3><br/>
 
 🔭 &nbsp;&nbsp;My personal project: [Pramool Quick](https://www.pramoolquick.com/)
 
-🌱 &nbsp;&nbsp;I’m currently learning **Front-End, Back-End, DevOps & more 😍**
+🌱 &nbsp;&nbsp;I’m currently learning **Everything,  😍**
 
 📫 &nbsp;&nbsp;Contact me **chawput@gmail.com**
 
@@ -26,8 +26,3 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="margin:10px;"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="margin:10px;"/>&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin:10px;"/>
 </p>
-
-
-## ⭐ Quotes
-> "การมีความรู้เพียงอย่างเดียวนั้นยังไม่พอ เราต้องรู้จักนำมันออกมาใช้ และการมีความตั้งใจอย่างเดียวนั้นยังน้อยไป เราต้องรู้จักลงมือทำ"  
-> ~ เลโอนาร์โด ดา วินชี (Leonardo da Vinci)
