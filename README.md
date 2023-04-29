@@ -3,7 +3,7 @@
 
 🔭 &nbsp;&nbsp;My personal project: [Pramool Quick](https://www.pramoolquick.com/)
 
-🌱 &nbsp;&nbsp;I’m currently learning **Everything,  😍**
+🌱 &nbsp;&nbsp;I’m currently learning **Next.js, Three.js  😍**
 
 📫 &nbsp;&nbsp;Contact me **chawput@gmail.com**
 
