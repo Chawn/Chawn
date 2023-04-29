@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chawput Nawakalanyu</h1>
 <h3 align="center">A passionate Frontend Developer from Thailand</h3><br/>
 
+🔭 &nbsp;&nbsp;I'm currently work at Hybiot Co., Ltd.
+
 🔭 &nbsp;&nbsp;My personal project: [Pramool Quick](https://www.pramoolquick.com/)
 
 🌱 &nbsp;&nbsp;I’m currently learning **Next.js, Three.js  😍**
