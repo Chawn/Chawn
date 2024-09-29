@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chawput Nawakalanyu</h1>
+<h1 align="center">Hi 👋, I'm Chawput Nawakalanyu (Ben)</h1>
 <h3 align="center">A passionate Software Development from Thailand</h3><br/>
 
 🔭 &nbsp;&nbsp;My personal project: [Pramool Quick](https://www.pramoolquick.com/)
