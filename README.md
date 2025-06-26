@@ -4,6 +4,7 @@
 🔭 &nbsp;&nbsp;My personal project: [Pramool Quick](https://www.pramoolquick.com/)
 
 📫 &nbsp;&nbsp;Contact me **chawput@gmail.com**
+IG: **[@chaw.nawa](https://www.instagram.com/chaw.nawa/)**
 
 <br/>
 
