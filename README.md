@@ -7,7 +7,7 @@
 
 <br/>
 
-IG: **[@chawput.n](https://www.instagram.com/chawput.n/)**
+IG: **[@chawput](https://www.instagram.com/chawput/)**
 
 <br/>
 
