@@ -5,10 +5,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;SaaS+Founder+%40+Pramool+Quick;Automating+Real+World+Business" alt="Typing SVG" />
 </a>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Ex-Tech+Team+Lead+%26+Mentor;SaaS+Founder+%40+Pramool+Quick;Professional+Outsource+Service;Automating+Real+World+Business" alt="Typing SVG" />
-</a>
 <br/>
 
 <a href="https://github.com/chawn">
