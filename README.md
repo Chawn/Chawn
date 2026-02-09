@@ -2,6 +2,11 @@
 
 # Hi, I'm Prem (Chawput Nawakalanyu) 👋
 
+<h3>
+Portfolio: <a href="https://chawput.vercel.app">https://chawput.vercel.app</a>
+</h3>
+<br/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;SaaS+Founder+%40+Pramool+Quick;Automating+Real+World+Business" alt="Typing SVG" />
 </a>
@@ -27,12 +32,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chawn&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-
-<br/>
-<br/>
-
-<h3>🚀 Current Focus</h3>
+<h3>🚀 My Product</h3>
 <a href="https://www.pramoolquick.com/">
   <img src="https://img.shields.io/badge/Pramool_Quick-SaaS_Platform-ff69b4?style=for-the-badge" />
 </a>
