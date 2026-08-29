@@ -3,15 +3,17 @@
 # Hi, I'm Prem (Chawput Nawakalanyu) 👋
 
 <h3>
-Portfolio: <a href="https://chawput.vercel.app">https://chawput.vercel.app</a>
+CEO &amp; Technical Lead — <a href="https://chaoput.com">Chaoput Co., Ltd.</a> (บริษัท ชาวพุทธ จำกัด)
 </h3>
-<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;SaaS+Founder+%40+Pramool+Quick;Automating+Real+World+Business" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=2E86C1&center=true&vCenter=true&width=520&lines=CEO+%26+Technical+Lead+%40+Chaoput+Co.%2C+Ltd.;Full+Stack+Developer;Web+%2B+Mobile+%2B+AI+Automation;Automating+Real+World+Business" alt="Typing SVG" />
 </a>
 <br/>
 
+<a href="https://chaoput.com">
+  <img src="https://img.shields.io/badge/Website-chaoput.com-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 <a href="https://github.com/chawn">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -25,14 +27,34 @@ Portfolio: <a href="https://chawput.vercel.app">https://chawput.vercel.app</a>
 <br/>
 <br/>
 
-<h3>🛠️ Tech Stack</h3>
+</div>
+
+### 🏢 What I do
+
+I run **Chaoput Co., Ltd.** — a small software house based in Udon Thani, Thailand.
+We build **web applications, mobile apps, and AI automation** for clients in Thailand and abroad.
+I lead the technical side: architecture, code review, and shipping.
+
+Outside client work I build and run **Pramool Quick**, my own SaaS platform.
+
+<div align="center">
+<br/>
+
+### 🛠️ Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,python,php,postgres,prisma,mongodb,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,nestjs,express,go,python,php" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,redis,docker,cloudflare,linux,git" />
 </p>
 
 <br/>
 
-<h3>🚀 My Product</h3>
+### 🚀 Products
+
+<a href="https://chaoput.com">
+  <img src="https://img.shields.io/badge/Chaoput-Software_House-2E86C1?style=for-the-badge" />
+</a>
 <a href="https://www.pramoolquick.com/">
   <img src="https://img.shields.io/badge/Pramool_Quick-SaaS_Platform-ff69b4?style=for-the-badge" />
 </a>
