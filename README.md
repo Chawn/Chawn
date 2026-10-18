@@ -3,7 +3,7 @@
 # Hi, I'm Prem (Chawput Nawakalanyu) 👋
 
 <h3>
-CEO &amp; Technical Lead — <a href="https://chaoput.com">Chaoput Co., Ltd.</a> (บริษัท ชาวพุทธ จำกัด)
+Founder &amp; CTO — <a href="https://chaoput.com">Chaoput Co., Ltd.</a> (บริษัท ชาวพุทธ จำกัด)
 </h3>
 
 <a href="https://git.io/typing-svg">
